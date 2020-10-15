@@ -1,0 +1,27 @@
+﻿
+very good tutorial : https://www.youtube.com/watch?v=AGrl-H87pRU
+
+
+https://docs.microsoft.com/en-us/learn/powerplatform/power-bi?WT.mc_id=powerbi_landingpage-docs-link
+
+https://docs.microsoft.com/en-us/power-bi/fundamentals/desktop-getting-started
+
+https://community.powerbi.com/t5/Service/relationship-in-Power-BI-services/td-p/447308
+
+https://community.powerbi.com/t5/Service/Set-table-relationships-using-Power-BI-Service/td-p/30924
+
+https://docs.microsoft.com/en-us/power-bi/collaborate-share/service-how-to-collaborate-distribute-dashboards-reports
+
+Power BI tutorial:   https://www.youtube.com/watch?v=TmhQCQr_DCA
+
+https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/1-introduction
+
+
+
+https://www.linkedin.com/learning/power-bi-essential-training-3/overview-power-bi-data-sources
+
+https://www.youtube.com/watch?v=mEgeh7nmYk4
+
+
+
+
